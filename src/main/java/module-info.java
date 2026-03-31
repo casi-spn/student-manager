@@ -11,6 +11,6 @@ module com.example.studentmanagera {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens com.example.studentmanagera to javafx.fxml;
-    exports com.example.studentmanagera;
+    opens loose.oose.fis.lab.student.manager to javafx.fxml;
+    exports loose.oose.fis.lab.student.manager;
 }
